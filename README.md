@@ -9,7 +9,7 @@ The goal was to clean, explore, and visualize the dataset to uncover trends and 
 🛠 Tools & Libraries
 Programming Language: Python
 
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn
+Libraries: Pandas, NumPy, Matplotlib, Seaborn, plotly
 
 Environment: Jupyter Notebook
 
